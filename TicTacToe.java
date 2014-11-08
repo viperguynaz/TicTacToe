@@ -1,5 +1,6 @@
 // the soution
 // Don Irwin
+// another comment to test Travis CI and Maven
 import java.util.*;
 public class TicTacToe {
     public static void main(String[] args) {
